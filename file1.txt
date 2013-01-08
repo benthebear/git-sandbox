@@ -2,9 +2,15 @@ file 1
 
 eine neue Änderung!!!
 
-Ä Ü Ö ß
+Ä Ü Ö ß      
 
+KONFLIKTlösung muss her, schnell 
+hier stimmt doch irgendwas nicht!!!
+
+KONFLIKT!!!
+Diese Änderung ist von Sascha und möglicherweise zu nah dran!
 
 KONFLIKT!!!  Diese Änderung ist von Sascha und möglicherweise zu nah dran!
+
 
 
